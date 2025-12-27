@@ -37,6 +37,9 @@
         <mxCell id="Bk-yW30JsY1vv48qlIMd-13" value="&lt;font color=&quot;#ffffff&quot;&gt;养宠知识科普&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="326" y="452" width="31" height="207" as="geometry" />
         </mxCell>
+        <mxCell id="Bk-yW30JsY1vv48qlIMd-14" value="&lt;font color=&quot;#ffffff&quot;&gt;AI智能辅助问诊&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="546" width="31" height="207" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
