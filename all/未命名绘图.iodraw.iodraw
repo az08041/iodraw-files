@@ -31,8 +31,8 @@
         <mxCell id="Bk-yW30JsY1vv48qlIMd-11" value="&lt;font color=&quot;#ffffff&quot;&gt;医院/医生信息浏览&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="208" y="450" width="31" height="207" as="geometry" />
         </mxCell>
-        <mxCell id="Bk-yW30JsY1vv48qlIMd-12" value="&lt;font color=&quot;#ffffff&quot;&gt;医生与用户数据管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="515" width="31" height="207" as="geometry" />
+        <mxCell id="Bk-yW30JsY1vv48qlIMd-12" value="&lt;font color=&quot;#ffffff&quot;&gt;在线预约挂号&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="450" width="31" height="207" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
