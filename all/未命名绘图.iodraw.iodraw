@@ -10,6 +10,11 @@
         <mxCell id="Bk-yW30JsY1vv48qlIMd-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Web后台管理员端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-96" y="314" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Bk-yW30JsY1vv48qlIMd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bk-yW30JsY1vv48qlIMd-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="289" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Bk-yW30JsY1vv48qlIMd-5" value="&lt;font color=&quot;#ffffff&quot;&gt;移动客户端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="311" width="120" height="60" as="geometry" />
         </mxCell>
@@ -69,7 +74,7 @@
         <mxCell id="Bk-yW30JsY1vv48qlIMd-19" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="82.5" y="288" as="sourcePoint" />
-            <mxPoint x="149.5" y="288" as="targetPoint" />
+            <mxPoint x="275" y="288" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
