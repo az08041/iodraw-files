@@ -10,8 +10,8 @@
         <mxCell id="Bk-yW30JsY1vv48qlIMd-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Web后台管理员端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-96" y="314" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bk-yW30JsY1vv48qlIMd-5" value="&lt;font color=&quot;#ffffff&quot;&gt;Web后台管理员端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-86" y="324" width="120" height="60" as="geometry" />
+        <mxCell id="Bk-yW30JsY1vv48qlIMd-5" value="&lt;font color=&quot;#ffffff&quot;&gt;移动客户端&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="311" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
