@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bk-yW30JsY1vv48qlIMd-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" target="Bk-yW30JsY1vv48qlIMd-2">
+        <mxCell id="Bk-yW30JsY1vv48qlIMd-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="1" target="Bk-yW30JsY1vv48qlIMd-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="116" y="288" as="sourcePoint" />
             <mxPoint x="144" y="277" as="targetPoint" />
@@ -64,6 +64,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="114" y="361" as="sourcePoint" />
             <mxPoint x="164" y="311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bk-yW30JsY1vv48qlIMd-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="94" y="363" as="sourcePoint" />
+            <mxPoint x="144" y="313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
